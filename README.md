@@ -1,0 +1,2 @@
+# NYC-STRM-Analysis
+The main purpose of tis analysis to gain insights about popular borough and neighborhoods, preferences of property types and demand over time of short term rental market of New York City. 
